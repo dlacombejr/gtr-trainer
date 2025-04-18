@@ -1,0 +1,15 @@
+pyproject.toml
+setup.py
+gtr_trainer/__init__.py
+gtr_trainer/cli.py
+gtr_trainer/exporter.py
+gtr_trainer/fretboard.py
+gtr_trainer/tunings.py
+gtr_trainer/visualizer.py
+gtr_trainer.egg-info/PKG-INFO
+gtr_trainer.egg-info/SOURCES.txt
+gtr_trainer.egg-info/dependency_links.txt
+gtr_trainer.egg-info/entry_points.txt
+gtr_trainer.egg-info/requires.txt
+gtr_trainer.egg-info/top_level.txt
+tests/test_fretboard.py
